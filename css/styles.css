@@ -3,6 +3,7 @@ body {
     font-family: 'Playpen Sans', sans-serif !important;
     padding-top: 30px;
     padding-left: 30px;
+    padding-right: 30px;
 }
 
 .custom-navbar-color {
@@ -44,4 +45,18 @@ body {
 #subtext1 {
     font-weight: 300;
     font-size: 24px;
+}
+
+#title-text1{
+    font-weight: bold;
+    font-size: 27px;
+    color: #002743;
+}
+
+.container-b{
+    padding-top: 135px;
+}
+
+#text3{
+    font-size: 18px;
 }
