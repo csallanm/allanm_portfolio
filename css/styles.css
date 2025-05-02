@@ -1,4 +1,47 @@
 html,
 body {
     font-family: 'Playpen Sans', sans-serif !important;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.custom-navbar-color {
+    background-color: #002743;
+}
+
+#text {
+    color: white;
+}
+
+.profile-image {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    object-fit: cover;
+}
+
+.container-a{
+    display: flex;
+    padding-top: 100px;
+}
+
+.text-container{
+    padding-left: 75px;
+    padding-top: 75px;
+}
+
+#text2{
+    font-size: 27px;
+}
+
+#name-title{
+    font-weight: bold;
+    font-size: 45px;
+    color: #002743;
+}
+
+#subtext1 {
+    font-weight: 300;
+    font-size: 24px;
 }
